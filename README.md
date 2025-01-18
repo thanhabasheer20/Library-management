@@ -1,20 +1,21 @@
 # Library-management
 This project is a simple database-based Library Management System designed to handle operations like book rentals, customer management, and branch operations using SQL queries.  
   Features : 
-   Employee Management
+     Employee Management
 
 Retrieve and manage employee details, such as their positions, salaries, and branch assignments.
-Branch Operations
+  Branch Operations
 
 Link employees to specific branches and display branch addresses.
-Book Rentals
+  Book Rentals
 
 Track issued books and their corresponding rental prices.
-Customer Management
+  Customer Management
 
 Identify customers who issued books based on specific conditions, such as rental price thresholds.
-Database Schema
-Tables
+
+  Database Schema
+  Tables
 Employee Table
 
 Stores employee details (Employee ID, Name, Position, Salary, Branch Number).
