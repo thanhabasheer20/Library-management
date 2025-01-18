@@ -1,7 +1,7 @@
 # Library-management
-This project is a simple database-based Library Management System designed to handle operations like book rentals, customer management, and branch operations using SQL queries.
-Features : 
-1) Employee Management
+This project is a simple database-based Library Management System designed to handle operations like book rentals, customer management, and branch operations using SQL queries.  
+  Features : 
+   Employee Management
 
 Retrieve and manage employee details, such as their positions, salaries, and branch assignments.
 Branch Operations
